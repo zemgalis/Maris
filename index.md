@@ -1,5 +1,6 @@
 # Maris Zemgalis
 Software Engineer working on Electronic Trading Platform
+
 Latvian / Russian ethnicity, Latvian national, citizen of European Union.
 
 ## Links
