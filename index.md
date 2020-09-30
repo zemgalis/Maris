@@ -1,5 +1,9 @@
 # Maris Zemgalis
-Software Engineer working on Electronic Trading Platform
+Software Engineer at [Tradeweb](https://www.tradeweb.com/)
+
+working on Electronic Trading Platform
+
+## About
 
 * Latvian / Russian ethnicity
 * Latvian national
