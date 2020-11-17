@@ -16,3 +16,6 @@ working on Electronic Trading Platform
 
 ### CodePen
 [https://codepen.io/zemgalis](https://codepen.io/zemgalis)
+
+## How to spell and pronounce my name? 
+<img src="./maris-like-paris.jpg" title="suggested pronounciation: Maris like Paris">
