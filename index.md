@@ -1,4 +1,8 @@
-Link: 
+## Interesting facts about Maris Zemgalis
+[./maris-zemgalis.html](./maris-zemgalis.html)
+
+## How to spell and pronounce Maris? 
+[./maris-like-paris.html](./maris-like-paris.html)
 
 ## Links
 
@@ -8,8 +12,3 @@ Link:
 ### CodePen
 [https://codepen.io/zemgalis](https://codepen.io/zemgalis)
 
-### Interesting facts about Maris Zemgalis
-[./maris-zemgalis.html](./maris-zemgalis.html)
-
-### How to spell and pronounce Maris? 
-[./maris-like-paris.html](./maris-like-paris.html)
