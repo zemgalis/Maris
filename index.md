@@ -1,4 +1,4 @@
-About: [Maris Zemgalis](./maris-zemgalis.html)
+Link: [Interesting facts about Maris](./maris-zemgalis.html)
 
 ## Links
 
