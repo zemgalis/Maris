@@ -1,4 +1,4 @@
-Link: [Interesting facts about Maris](./maris-zemgalis.html)
+Link: 
 
 ## Links
 
@@ -8,5 +8,8 @@ Link: [Interesting facts about Maris](./maris-zemgalis.html)
 ### CodePen
 [https://codepen.io/zemgalis](https://codepen.io/zemgalis)
 
-## How to spell and pronounce my name? 
-<img src="./maris-like-paris.jpg" title="suggested pronounciation: Maris like Paris">
+### Interesting facts about Maris Zemgalis
+[./maris-zemgalis.html](./maris-zemgalis.html)
+
+### How to spell and pronounce Maris? 
+[./maris-like-paris.html](./maris-like-paris.html)
