@@ -1,5 +1,4 @@
-# Maris Zemgalis
-About: [Maris Zemgalis](./maris-zemgalis/)
+About: [Maris Zemgalis](./maris-zemgalis.html)
 
 ## Links
 
