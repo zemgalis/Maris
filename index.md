@@ -1,8 +1,8 @@
 ## Interesting facts about Maris Zemgalis
-[./about-maris-zemgalis.html](./maris-zemgalis.html)
+[about-maris-zemgalis](./about-maris-zemgalis.html)
 
 ## How to spell and pronounce Maris? 
-[./how-to-spell-and-pronounce-maris.html](./maris-like-paris.html)
+[how-to-spell-and-pronounce-maris](./how-to-spell-and-pronounce-maris.html)
 
 ## Links
 
