@@ -1,5 +1,5 @@
 # Maris Zemgalis
-Software Engineer at [Tradeweb](https://www.tradeweb.com/)
+Software Engineer
 
 working on Electronic Trading Platform
 
