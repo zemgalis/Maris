@@ -1,6 +1,9 @@
 # Maris Zemgalis
 Software Engineer
 
+## Born
+Dobele, Latvian SSR, Soviet Union (now Latvia)
+
 working on Electronic Trading Platform
 
 ## About
