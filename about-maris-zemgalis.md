@@ -7,7 +7,7 @@ Dobele, Latvian SSR, Soviet Union (now Latvia)
 Republic of Latvia
 
 ## Occupation
-Computer Programmer / working on Electronic Trading Platform
+Computer Programmer, with specialty in Electronic Trading
 
 ## About
 
