@@ -7,8 +7,12 @@
 
 ---
 
-## Interesting facts about Maris Zemgalis
-[about-maris-zemgalis](./about-maris-zemgalis.html)
+## Interesting facts about Maris
+> computer programmer, with specialty in FinTech, [DeFi](https://www.investopedia.com/decentralized-finance-defi-5113835) & Algorithmic Trading
+
+
+### Born
+[Dobele](https://en.wikipedia.org/wiki/Dobele), [Latvia](https://en.wikipedia.org/wiki/Latvia)
 
 ## How to spell and pronounce Maris? 
 [how-to-spell-and-pronounce-maris](./how-to-spell-and-pronounce-maris.html)
