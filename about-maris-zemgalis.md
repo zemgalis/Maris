@@ -1,5 +1,5 @@
 # Maris Zemgalis
-> Computer Programmer, with specialty in FinTech, Electronic Trading & DeFi.
+> computer programmer, with specialty in FinTech, [DeFi](https://www.investopedia.com/decentralized-finance-defi-5113835) & Algorithmic Trading
 
 
 ## Born
