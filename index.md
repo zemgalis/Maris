@@ -1,5 +1,5 @@
 
-[Ezekiel 25:17](https://www.youtube.com/watch?v=x2WK_eWihdU) ⚖️ FinTech / [DeFi](https://www.investopedia.com/decentralized-finance-defi-5113835)
+[Ezekiel 25:17](https://www.youtube.com/watch?v=x2WK_eWihdU) ⚖️ FinTech • [DeFi](https://www.investopedia.com/decentralized-finance-defi-5113835)
 
 ```
 ˈsʌɪbəpʌŋk • לטבית 📍 LDN
