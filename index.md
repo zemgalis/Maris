@@ -15,4 +15,4 @@
 [Dobele](https://en.wikipedia.org/wiki/Dobele), [Latvia](https://en.wikipedia.org/wiki/Latvia)
 
 ## How to spell and pronounce Maris? 
-[how-to-spell-and-pronounce-maris](./how-to-spell-and-pronounce-maris.html)
+<img src="./maris-like-paris.jpg" title="suggested pronounciation: Maris like Paris">
